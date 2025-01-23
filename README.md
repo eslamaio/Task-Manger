@@ -26,3 +26,8 @@ Saves valid results in results.txt.
 Saves error messages in errors.log.
 Redirect both stdout and stderr
 find ~ -name "*.pdf" &>/dev/null
+
+What is Wireshark?
+Wireshark is a network traffic analyzer.
+It captures packets from network interfaces (Ethernet, Wi-Fi, VPN, etc.).
+Used for troubleshooting, security analysis, and debugging network issu
